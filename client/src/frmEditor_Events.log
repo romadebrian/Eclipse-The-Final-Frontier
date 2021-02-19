@@ -1,0 +1,15 @@
+Line 2850: Class MSComctlLib.TabStrip of control tabCommands was not a loaded control class.
+Line 4080: Class MSComctlLib.TabStrip of control tabPages was not a loaded control class.
+Line 2856: The property name _ExtentX in tabCommands is invalid.
+Line 2857: The property name _ExtentY in tabCommands is invalid.
+Line 2858: The property name MultiRow in tabCommands is invalid.
+Line 2859: The property name TabMinWidth in tabCommands is invalid.
+Line 2860: The property name _Version in tabCommands is invalid.
+Line 2871: The property name Tabs in tabCommands is invalid.
+Line 4086: The property name _ExtentX in tabPages is invalid.
+Line 4087: The property name _ExtentY in tabPages is invalid.
+Line 4088: The property name MultiRow in tabPages is invalid.
+Line 4089: The property name ShowTips in tabPages is invalid.
+Line 4090: The property name TabMinWidth in tabPages is invalid.
+Line 4091: The property name _Version in tabPages is invalid.
+Line 4098: The property name Tabs in tabPages is invalid.
