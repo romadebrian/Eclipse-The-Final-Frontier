@@ -1,0 +1,15 @@
+regsvr32 "C:\Windows\system32\dx8vb.dll"
+
+atau coba registrasi manual file file yang ada di runtime
+
+cmcs21.ocx
+COMCAT.DLL
+dx8vb.dll
+msvbvm60.dll
+Mswinsck.ocx
+oleaut32.dll
+olepro32.dll
+Richtx32.ocx
+stdole2.tlb
+Tabctl32.ocx
+MSCOMCTL32.OCX
