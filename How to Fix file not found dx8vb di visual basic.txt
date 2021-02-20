@@ -1,0 +1,3 @@
+extrack dx8vb.dll ke C: - windows - system32 (untuk 32bit
+
+kalo gak bisa juga coba extrack ke C: - windows - SysWOW64 (untuk 64bit)
