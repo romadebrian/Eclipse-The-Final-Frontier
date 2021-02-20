@@ -1,3 +1,5 @@
-extrack dx8vb.dll ke C: - windows - system32 (untuk 32bit
+dx8vb.dll missing while open client.exe
 
-kalo gak bisa juga coba extrack ke C: - windows - SysWOW64 (untuk 64bit)
+extrack dx8vb.dll to C: - windows - system32 (32bit)
+
+and C: - windows - SysWOW64 (64bit)
