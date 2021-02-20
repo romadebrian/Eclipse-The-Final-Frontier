@@ -1,13 +1,13 @@
 modConstants = 6, -8, 827, 633, C
 modDatabase = -21, 10, 981, 554, C
 modGameLogic = 5, 9, 1003, 568, C
-modGeneral = -10, 114, 974, 685, 
+modGeneral = -10, 114, 974, 685, C
 modGlobals = 12, 108, 971, 474, C
 modHandleData = -3, 42, 993, 598, C
 modServerTCP = 5, 59, 978, 624, C
 modSysTray = 25, 25, 853, 437, C
 modTypes = 2, 8, 972, 663, C
-frmServer = -4, 124, 957, 580, , 169, 34, 751, 496, C
+frmServer = -4, 124, 957, 580, Z, 169, 34, 751, 496, C
 modServerLoop = 4, 8, 982, 644, C
 modEnumerations = 4, 40, 986, 600, C
 modPlayer = -7, 33, 973, 582, C
