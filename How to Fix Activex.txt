@@ -1,6 +1,15 @@
+ --- activex component can't create object while open client.exe project ---
+
+how to fix it
+
+copy and paste dx8vb.dll to system32 or syswow64
+
+if you still can't
+try manually registering the files at runtime
+
 regsvr32 "C:\Windows\system32\dx8vb.dll"
 
-atau coba registrasi manual file file yang ada di runtime
+if still can't, try to install runtime and add dll manually
 
 cmcs21.ocx
 COMCAT.DLL
